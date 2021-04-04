@@ -26,6 +26,7 @@ Example
 
 Install
 -----------------
+Rename config-template.yml to config.yml and edit it's host and api key.
 
 Contribution
 -----------------
